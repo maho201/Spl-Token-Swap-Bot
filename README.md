@@ -10,7 +10,7 @@ You will add it as privatekey, privakey, privatekey. The last time you add it, i
 
 Then open main.js file with notepad.
 
-Since my token is OTR, it can write OTR. You don't need to change OTR.
+It can write OTR because my token is OTR. You can change OTR optionally from the codes. If you do not want to deal with it, if you enter your own token mint address, it will trade on your token. OTR is only symbolic.
 
 Set this as the mint address of your own token.
 
